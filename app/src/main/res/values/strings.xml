@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Question of the day</string>
+    <string name="no_question">No Question,\nHave a good Day :)</string>
+    <string name="question_load">Please Wait...</string>
+    <string name="get_in">Get answer in</string>
+</resources>
